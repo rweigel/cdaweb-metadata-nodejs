@@ -1,0 +1,152 @@
+Global attributes:
+
+  TITLE
+    "ACE> Magnetometer Parameters"
+
+  Project
+    "ACE>Advanced Composition Explorer"
+    "ISTP>International Solar-Terrestrial Physics"
+
+  Discipline
+    "Space Physics>Interplanetary Studies"
+
+  Source_name
+    "AC>Advanced Composition Explorer"
+
+  Data_type
+    "H2>1-Hr Level 2 Data"
+
+  Descriptor
+    "MAG>ACE Magnetic Field Instrument"
+
+  DATA_VERSION
+    "5"
+
+  GENERATED_BY
+    "ACE Science Center"
+
+  GENERATION_DATE
+    "20091116"
+
+  LINK_TEXT
+    "Release notes and other info available at"
+
+  LINK_TITLE
+    "the ACE Science Center Level 2 Data website"
+
+  HTTP_LINK
+    "http://www.srl.caltech.edu/ACE/ASC/level2/index.html"
+
+  Text
+    "CDAWeb interface derived data on Sat Mar 11 21:13:09 EST 2023."
+    "Contacts: Tami.J.Kovalick@nasa.gov, Rita.C.Johnson@nasa.gov."
+    " "
+    "MAG - ACE Magnetic Field Experiment"
+    "References: http://www.srl.caltech.edu/ACE/"
+    "The quality of ACE level 2 data is such that it is suitable for serious"
+    "scientific study.  However, to avoid confusion and misunderstanding, it"
+    "is recommended that users consult with the appropriate ACE team members"
+    "before publishing work derived from the data. The ACE team has worked"
+    "hard to ensure that the level 2 data are free from errors, but the team"
+    "cannot accept responsibility for erroneous data, or for misunderstandings"
+    "about how the data may be used. This is especially true if the appropriate"
+    "ACE team members are not consulted before publication. At the very"
+    "least, preprints should be forwarded to the ACE team before publication."
+
+  MODS
+    "Initial Release 9/6/01"
+    "12/04/02: Fixed description of Epoch time variable."
+
+  ADID_ref
+    "NSSD0327"
+
+  Logical_file_id
+    "ac_h2s_mfi_20090601000000_20090601120000"
+
+  Logical_source
+    "AC_H2S_MFI"
+
+  Logical_source_description
+    "DERIVED FROM: H2 - ACE Magnetic Field 1-Hour Level 2 Data"
+
+  PI_name
+    "N. Ness"
+
+  PI_affiliation
+    "Bartol Research Institute"
+
+  Mission_group
+    "ACE"
+    "!___Interplanetary Data near 1 AU"
+
+  Instrument_type
+    "Magnetic Fields (space)"
+
+  TIME_RESOLUTION
+    "1 hour"
+
+  WEB_SITE
+    "http://www.srl.caltech.edu/ACE/"
+
+  ACKNOWLEDGEMENT
+    "Please acknowledge the Principal"
+    "Investigator, N. Ness of Bartol Research"
+    "Institute"
+
+  RULES_OF_USE
+    "See the rules of use available from the ACE"
+    "Science Center at:"
+    "http://www.srl.caltech.edu/ACE/ASC/level2/policy_lvl2.html"
+
+  ALT_LOGICAL_SOURCE
+    "ACE_MAG_Solar-Wind-Magnetic-Field-Level2-H2_1hour_cdf"
+
+  SPASE_DATASETRESOURCEID
+    "spase://NASA/NumericalData/ACE/MAG/L2/PT1H"
+
+  CDAWEB_PARENTS
+    "ac_h2_mfi_00000000_v01"
+    "ac_h2_mfi_20090601_v05"
+
+Variables:
+
+         Epoch              Magnitude          BGSEc     
+2009-06-01T00:00:00.000  3.526999950e+00  2.599999905e-01
+                                          2.700000048e+00
+                                         -2.082000017e+00
+2009-06-01T01:00:00.000  3.404999971e+00  3.459999859e-01
+                                          2.509000063e+00
+                                         -2.174999952e+00
+2009-06-01T02:00:00.000  2.881999969e+00 -4.550000131e-01
+                                          2.147000074e+00
+                                         -1.697000027e+00
+2009-06-01T03:00:00.000  2.730000019e+00 -2.134999990e+00
+                                          8.069999814e-01
+                                         -1.139999986e+00
+2009-06-01T04:00:00.000  3.548000097e+00 -2.042999983e+00
+                                          2.428999901e+00
+                                         -1.470000029e+00
+2009-06-01T05:00:00.000  3.947999954e+00  4.469999969e-01
+                                          3.720999956e+00
+                                         -6.140000224e-01
+2009-06-01T06:00:00.000  3.730000019e+00 -1.360000074e-01
+                                          3.552000046e+00
+                                          1.499999966e-02
+2009-06-01T07:00:00.000  3.703000069e+00 -1.406999946e+00
+                                          3.121000051e+00
+                                          8.949999809e-01
+2009-06-01T08:00:00.000  3.671999931e+00 -1.152999997e+00
+                                          3.026999950e+00
+                                          1.376000047e+00
+2009-06-01T09:00:00.000  3.615999937e+00 -7.220000029e-01
+                                          2.982000113e+00
+                                          1.666000009e+00
+2009-06-01T10:00:00.000  3.582999945e+00 -7.250000238e-01
+                                          3.019000053e+00
+                                          1.473999977e+00
+2009-06-01T11:00:00.000  3.369999886e+00 -6.729999781e-01
+                                          2.588000059e+00
+                                          1.475000024e+00
+2009-06-01T12:00:00.000  3.513000011e+00 -1.108000040e+00
+                                          2.084000111e+00
+                                          2.447000027e+00

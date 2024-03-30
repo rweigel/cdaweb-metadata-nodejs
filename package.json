@@ -1,0 +1,27 @@
+{
+  "name": "@hapi-server/cdaweb",
+  "version": "0.0.1",
+  "license": "MIT",
+  "people": {
+    "name": "Bob Weigel",
+    "email": "rweigel@gmu.edu",
+    "url": "https://github.com/rweigel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hapi-server/server-nodejs.git"
+  },
+  "dependencies": {
+    "async": "^3.2.4",
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "glob": "^10.2.2",
+    "moment": "^2.18.1",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23",
+    "yargs": "^8.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+  }
+}
